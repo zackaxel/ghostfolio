@@ -1,3 +1,5 @@
+# Terms of Service
+
 This Terms of Service Agreement (hereinafter referred to as the "Agreement") is a legally binding contract between you (hereinafter referred to as the "User" or "You") and WealthNest (hereinafter referred to as "PROVIDER") governing your use of the web application and the application programming interface (API) (hereinafter referred to as the "Service") provided by PROVIDER. By either accessing or using the Service, or by downloading data provided by the Service, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to these terms, please do not access or use the Service.
 
 **Open Source Notice**: This service is provided using WealthNest software, which is 100% open source and licensed under AGPLv3. You have the right to access, modify, and distribute the source code under the terms of the AGPLv3 license. The complete source code is available at https://github.com/zackaxel/ghostfolio
@@ -31,6 +33,18 @@ The User agrees to the following use restrictions for the hosted Service:
 ## Ownership
 
 The hosted Service infrastructure and branding is the property of PROVIDER. However, the underlying software is open source and licensed under AGPLv3. You have rights to the source code as granted by the AGPLv3 license, including the right to access, modify, and redistribute the software.
+
+## Open Source Rights
+
+Under the AGPLv3 license, you have the following irrevocable rights to the software:
+
+- **Access**: Right to access the complete source code
+- **Modify**: Right to modify the software for any purpose
+- **Distribute**: Right to distribute the original or modified software
+- **Commercial Use**: Right to use the software commercially
+- **Study**: Right to study how the software works
+
+These rights cannot be restricted by this Terms of Service agreement.
 
 ## Disclaimer of Warranty
 
