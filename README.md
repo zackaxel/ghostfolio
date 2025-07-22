@@ -1,21 +1,41 @@
 <div align="center">
 
-[<img src="https://avatars.githubusercontent.com/u/82473144?s=200" width="100" alt="Ghostfolio logo">](https://ghostfol.io)
+[<img src="https://avatars.githubusercontent.com/u/82473144?s=200" width="100" alt="WealthNest logo">](https://wealthnest.com)
 
-# Ghostfolio
+# WealthNest
 
 **Open Source Wealth Management Software**
 
-[**Ghostfol.io**](https://ghostfol.io) | [**Live Demo**](https://ghostfol.io/en/demo) | [**Ghostfolio Premium**](https://ghostfol.io/en/pricing) | [**FAQ**](https://ghostfol.io/en/faq) |
-[**Blog**](https://ghostfol.io/en/blog) | [**LinkedIn**](https://www.linkedin.com/company/ghostfolio) | [**Slack**](https://join.slack.com/t/ghostfolio/shared_invite/zt-vsaan64h-F_I0fEo5M0P88lP9ibCxFg) | [**X**](https://x.com/ghostfolio_)
+*Built on Ghostfolio - Licensed under AGPLv3*
 
-[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/ghostfolio)
-[![Shield: Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-limegreen.svg)](#contributing) [![Shield: Docker Pulls](https://img.shields.io/docker/pulls/ghostfolio/ghostfolio?label=Docker%20Pulls)](https://hub.docker.com/r/ghostfolio/ghostfolio)
+[**WealthNest.com**](https://wealthnest.com) | [**Source Code**](https://github.com/zackaxel/ghostfolio) | [**Original Ghostfolio**](https://ghostfol.io) | [**Live Demo**](https://ghostfol.io/en/demo)
+
 [![Shield: License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Shield: Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-limegreen.svg)](#contributing) 
+[![Shield: Open Source](https://img.shields.io/badge/Open%20Source-100%25-brightgreen.svg)](#license)
 
 </div>
 
-**Ghostfolio** is an open source wealth management software built with web technology. The application empowers busy people to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions. The software is designed for personal use in continuous operation.
+## License Notice
+
+This software is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**. All code, including premium features, is **100% open source** and available in this public repository.
+
+**Attribution:**
+- Originally created by [Ghostfolio](https://ghostfol.io) contributors (2021-2025)
+- Enhanced and commercialized by WealthNest contributors (2024-2025)
+
+**Your Rights:**
+- ✅ Use the software commercially
+- ✅ Modify and distribute the code
+- ✅ Access all source code including premium features
+- ✅ Fork and create your own version
+
+**Your Obligations:**
+- 📋 Provide source code to users (AGPLv3 requirement)
+- 📋 Include license and copyright notices
+- 📋 Share modifications under the same license
+
+**WealthNest** is an open source wealth management software built with web technology, originally based on [Ghostfolio](https://ghostfol.io). The application empowers busy people to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions. The software is designed for personal use in continuous operation.
 
 <div align="center">
 
@@ -23,15 +43,17 @@
 
 </div>
 
-## Ghostfolio Premium
+## WealthNest Premium
 
-Our official **[Ghostfolio Premium](https://ghostfol.io/en/pricing)** cloud offering is the easiest way to get started. Due to the time it saves, this will be the best option for most people. Revenue is used to cover the costs of the hosting infrastructure and to fund ongoing development.
+Our official **[WealthNest Premium](https://wealthnest.com/pricing)** cloud offering is the easiest way to get started. Due to the time it saves, this will be the best option for most people. Revenue is used to cover the costs of the hosting infrastructure and to fund ongoing development.
 
-If you prefer to run Ghostfolio on your own infrastructure, please find further instructions in the [Self-hosting](#self-hosting) section.
+All premium features are **100% open source** and available in this repository under AGPLv3.
 
-## Why Ghostfolio?
+If you prefer to run WealthNest on your own infrastructure, please find further instructions in the [Self-hosting](#self-hosting) section.
 
-Ghostfolio is for you if you are...
+## Why WealthNest?
+
+WealthNest is for you if you are...
 
 - 💼 trading stocks, ETFs or cryptocurrencies on multiple platforms
 - 🏦 pursuing a buy & hold strategy
@@ -76,12 +98,6 @@ The frontend is built with [Angular](https://angular.dev) and uses [Angular Mate
 ## Self-hosting
 
 We provide official container images hosted on [Docker Hub](https://hub.docker.com/r/ghostfolio/ghostfolio) for `linux/amd64`, `linux/arm/v7` and `linux/arm64`.
-
-<div align="center">
-
-[<img src="./apps/client/src/assets/images/button-buy-me-a-coffee.png" width="150" alt="Buy me a coffee button"/>](https://www.buymeacoffee.com/ghostfolio)
-
-</div>
 
 ### Supported Environment Variables
 
@@ -293,18 +309,27 @@ Are you building your own project? Add the `ghostfolio` topic to your _GitHub_ r
 
 ## Contributing
 
-Ghostfolio is **100% free** and **open source**. We encourage and support an active and healthy community that accepts contributions from the public - including you.
+WealthNest is **100% free** and **open source**. We encourage and support an active and healthy community that accepts contributions from the public - including you.
 
-Not sure what to work on? We have [some ideas](https://github.com/ghostfolio/ghostfolio/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), even for [newcomers](https://github.com/ghostfolio/ghostfolio/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). Please join the Ghostfolio [Slack](https://join.slack.com/t/ghostfolio/shared_invite/zt-vsaan64h-F_I0fEo5M0P88lP9ibCxFg) channel or post to [@ghostfolio\_](https://x.com/ghostfolio_) on _X_. We would love to hear from you.
+All contributions will be licensed under AGPLv3.
 
-If you like to support this project, get [**Ghostfolio Premium**](https://ghostfol.io/en/pricing) or [**Buy me a coffee**](https://www.buymeacoffee.com/ghostfolio).
+Not sure what to work on? We have [some ideas](https://github.com/zackaxel/ghostfolio/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), even for [newcomers](https://github.com/zackaxel/ghostfolio/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). Please contact us through our [support channels](https://wealthnest.com/contact). We would love to hear from you.
+
+If you like to support this project, get [**WealthNest Premium**](https://wealthnest.com/pricing).
+
+### Attribution
+
+This project is built on the excellent work of the [Ghostfolio](https://ghostfol.io) project and its contributors. We maintain all original attribution while building upon their foundation.
+
+## License
+
+© 2021 - 2025 [Ghostfolio Contributors](https://ghostfol.io)  
+© 2024 - 2025 [WealthNest Contributors](https://wealthnest.com)
+
+Licensed under the [AGPLv3 License](https://www.gnu.org/licenses/agpl-3.0.html).
+
+**This software is 100% open source.** All code, including premium features, is available in this public repository under AGPLv3.
 
 ## Analytics
 
 ![Alt](https://repobeats.axiom.co/api/embed/281a80b2d0c4af1162866c24c803f1f18e5ed60e.svg 'Repobeats analytics image')
-
-## License
-
-© 2021 - 2025 [Ghostfolio](https://ghostfol.io)
-
-Licensed under the [AGPLv3 License](https://www.gnu.org/licenses/agpl-3.0.html).

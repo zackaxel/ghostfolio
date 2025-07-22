@@ -1,3 +1,5 @@
+# Privacy Policy
+
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
@@ -62,6 +64,15 @@ The Company will also retain Usage Data for internal analysis purposes. Usage Da
 #### Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to store no personal data at all to protect Your Personal Data, We cannot guarantee its absolute security.
+
+## Open Source Transparency
+
+As this service uses 100% open source software licensed under AGPLv3:
+
+- You have the right to examine all source code used in this service
+- You can verify our data handling practices by reviewing the code
+- You can run your own instance of the software if you prefer
+- The complete source code is available at: https://github.com/zackaxel/ghostfolio
 
 ## Links to Other Websites
 

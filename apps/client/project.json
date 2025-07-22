@@ -199,6 +199,18 @@
           },
           {
             "command": "shx cp LICENSE dist/apps/client/assets"
+          },
+          {
+            "command": "shx cp NOTICE.md dist/apps/client/assets"
+          },
+          {
+            "command": "shx cp CONTRIBUTING.md dist/apps/client/assets"
+          },
+          {
+            "command": "shx cp PRIVACY-POLICY.md dist/apps/client/assets"
+          },
+          {
+            "command": "shx cp TERMS-OF-SERVICE.md dist/apps/client/assets"
           }
         ],
         "parallel": false

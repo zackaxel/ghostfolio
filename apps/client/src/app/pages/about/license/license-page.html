@@ -2,8 +2,64 @@
   <div class="mb-5 row">
     <div class="col">
       <h1 class="d-none d-sm-block h3 mb-4 text-center" i18n>License</h1>
-      <div>
-        <markdown [src]="'../assets/LICENSE'"></markdown>
+      
+      <!-- License Header -->
+      <div class="mb-4 text-center">
+        <h2 class="h4">GNU Affero General Public License v3.0</h2>
+        <p class="text-muted">This software is 100% open source</p>
+      </div>
+
+      <!-- Attribution Section -->
+      <div class="mb-4 p-3 border rounded">
+        <h3 class="h5 mb-3">Attribution</h3>
+        <div class="row">
+          <div class="col-md-6">
+            <strong>Original Project:</strong><br>
+            © 2021-2025 <a href="https://ghostfol.io" target="_blank">Ghostfolio Contributors</a>
+          </div>
+          <div class="col-md-6">
+            <strong>Enhanced Version:</strong><br>
+            © 2024-2025 <a href="https://wealthnest.com" target="_blank">WealthNest Contributors</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Source Code Access -->
+      <div class="mb-4 p-3 bg-light border rounded">
+        <h3 class="h5 mb-3">Source Code Access</h3>
+        <p class="mb-2">
+          <strong>Complete source code is available at:</strong>
+        </p>
+        <p class="mb-2">
+          <a href="https://github.com/zackaxel/ghostfolio" target="_blank" class="btn btn-outline-primary btn-sm">
+            <i class="fa fa-github" aria-hidden="true"></i> View Source Code on GitHub
+          </a>
+        </p>
+        <p class="text-muted small">
+          All features, including premium functionality, are available in the public repository under AGPLv3.
+        </p>
+      </div>
+
+      <!-- Your Rights -->
+      <div class="mb-4 p-3 border rounded">
+        <h3 class="h5 mb-3">Your Rights Under AGPLv3</h3>
+        <ul class="mb-2">
+          <li>✅ Use the software for any purpose, including commercial use</li>
+          <li>✅ Study and modify the source code</li>
+          <li>✅ Distribute copies of the software</li>
+          <li>✅ Distribute your modifications</li>
+        </ul>
+        <p class="text-muted small">
+          If you run this software on a server, you must provide the source code to your users.
+        </p>
+      </div>
+
+      <!-- Full License Text -->
+      <div class="mb-4">
+        <h3 class="h5 mb-3">Full License Text</h3>
+        <div style="max-height: 400px; overflow-y: auto; border: 1px solid #dee2e6; padding: 1rem;">
+          <markdown [src]="'../assets/LICENSE'"></markdown>
+        </div>
       </div>
     </div>
   </div>
